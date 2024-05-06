@@ -1,0 +1,15 @@
+C:\Users\Anuar Espinoza\source\repos\tarea\bin\Debug\net6.0\tarea.exe
+C:\Users\Anuar Espinoza\source\repos\tarea\bin\Debug\net6.0\tarea.deps.json
+C:\Users\Anuar Espinoza\source\repos\tarea\bin\Debug\net6.0\tarea.runtimeconfig.json
+C:\Users\Anuar Espinoza\source\repos\tarea\bin\Debug\net6.0\tarea.dll
+C:\Users\Anuar Espinoza\source\repos\tarea\bin\Debug\net6.0\tarea.pdb
+C:\Users\Anuar Espinoza\source\repos\tarea\obj\Debug\net6.0\tarea.csproj.AssemblyReference.cache
+C:\Users\Anuar Espinoza\source\repos\tarea\obj\Debug\net6.0\tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anuar Espinoza\source\repos\tarea\obj\Debug\net6.0\tarea.AssemblyInfoInputs.cache
+C:\Users\Anuar Espinoza\source\repos\tarea\obj\Debug\net6.0\tarea.AssemblyInfo.cs
+C:\Users\Anuar Espinoza\source\repos\tarea\obj\Debug\net6.0\tarea.csproj.CoreCompileInputs.cache
+C:\Users\Anuar Espinoza\source\repos\tarea\obj\Debug\net6.0\tarea.dll
+C:\Users\Anuar Espinoza\source\repos\tarea\obj\Debug\net6.0\refint\tarea.dll
+C:\Users\Anuar Espinoza\source\repos\tarea\obj\Debug\net6.0\tarea.pdb
+C:\Users\Anuar Espinoza\source\repos\tarea\obj\Debug\net6.0\tarea.genruntimeconfig.cache
+C:\Users\Anuar Espinoza\source\repos\tarea\obj\Debug\net6.0\ref\tarea.dll
